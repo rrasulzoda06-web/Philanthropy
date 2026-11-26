@@ -558,3 +558,112 @@ header{
     font-size: 16px;
     border-radius: 10px;
 }
+
+.nuh{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 120px 150px;
+    background-color: #ffffff;
+}
+.h{
+    color: #FF9C08;
+    font-size: 14px;
+    font-weight: 700;
+    text-align: center;
+}
+.nuh h2{
+    font-family: Roboto, Arial, sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    color: #0a0a0a;
+    text-align: center;
+    margin-top: 10px;
+}
+.hh{
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+    margin-top: 50px;
+}
+.hh1{
+    width: 585px;
+}
+.rsm{
+    display: block;
+    width: 585px;
+    height: 330px;
+    border-radius: 10px;
+}
+.hh2{
+    position: relative;
+    left: -40px;
+    width: 450px;
+    height: 200px;
+    margin: -55px auto 0 auto;
+    padding: 28px 30px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.06);
+}
+.hh3{
+    display: flex;
+    gap: 20px;
+    font-size: 13px;
+    color: #777;
+}
+.hh4{
+    border: 1px solid rgb(206, 201, 201);
+    padding: 9px 10px;
+    margin-right: 40px;
+    border-radius: 10px;
+}
+.hh5{
+    color: #777;
+    font-weight: 400;
+}
+.hh2 h3{
+    font-family: Roboto, Arial, sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 30px;
+    color: #0a0a0a;
+    margin-top: 12px;
+}
+.hh3{
+    display: inline-block;
+    margin-top: 16px;
+    font-size: 14px;
+    font-weight: 700;
+    color: #0a0a0a;
+}
+.h4{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 60px;
+}
+.h5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 165px;
+    height: 60px;
+    background-color: #FF9C08;
+    color: #0a0a0a;
+    font-weight: 700;
+    font-size: 16px;
+    border-radius: 10px;
+}
+.h6{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 185px;
+    height: 60px;
+    background-color: #ffffff;
+    color: #0a0a0a;
+    border: 1px solid #eee;
+    font-weight: 700;
+    font-size: 16px;
+    border-radius: 10px;
+}   
