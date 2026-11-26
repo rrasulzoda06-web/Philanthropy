@@ -12,7 +12,7 @@ header{
     box-sizing: border-box;
     max-width: 1500px;
     margin: 0 auto;
-    padding: 0px 150px 0px 150px;
+    padding: 0 150px;
     height: 120px;
     border-bottom: 1px solid #eee;
 }
@@ -45,8 +45,7 @@ header{
     box-sizing: border-box;
     width: 760px;
     height: 100%;
-    padding-left: 110px;
-    padding-right: 20px;
+    padding: 0 20px 0 110px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -103,7 +102,6 @@ header{
     display: block;
 }
 .se{
-    padding-left: 40px;
     position: relative;
     max-width: 1360px;
     height: 315px;
@@ -140,7 +138,7 @@ header{
 .chor{
     display: flex;
     justify-content: space-between;
-    max-width: 1275px;
+    max-width: 1230px;
     margin: 0 auto;
     padding: 210px 160px 200px 160px;
     background-color: #FEF9F2;
@@ -244,7 +242,7 @@ header{
     align-items: center;
     max-width: 1200px;
     margin: 0 auto;
-    padding: 200px 110px 200px 110px;
+    padding: 200px 110px;
 }
 .c1{
     width: 560px;
@@ -305,7 +303,6 @@ header{
     border-radius: 10px;
 }
 .shash{
-    position: relative;
     max-width: 1520px;
     margin: 0 auto;
     background-color: #ffffff;
@@ -321,7 +318,6 @@ header{
     color: #333;
     padding-bottom: 20px;
 }
-
 .ddd{
     display: flex;
     justify-content: center;
@@ -354,7 +350,6 @@ header{
     border-radius: 10px;
 }
 .d4{
-    position: relative;
     width: 1200px;
     height: 690px;
     margin: 50px auto 0 auto;
@@ -392,4 +387,68 @@ header{
     line-height: 26px;
     color: #777;
     margin-top: 10px;
+}
+.haft{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 90px 110px 120px 110px;
+    background-color: #ffffff;
+    border-top: 1px solid #eee;
+}
+.f{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+.f1{
+    color: #FF9C08;
+    font-size: 14px;
+    font-weight: 700;
+}
+.f h2{
+    font-family: Roboto, Arial, sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 52px;
+    color: #0a0a0a;
+    margin-top: 10px;
+}
+.f2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 165px;
+    height: 60px;
+    background-color: #FF9C08;
+    font-weight: 700;
+    font-size: 16px;
+    border-radius: 10px;
+}
+.ff{
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+    margin-top: 50px;
+}
+.f5{
+    width: 390px;
+    padding: 45px 30px;
+    background-color: #ffffff;
+    border: 1px solid #eee;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 1px 1px 10px rgb(229, 222, 222);
+}
+.f5 h3{
+    font-family: Roboto, Arial, sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    color: #0a0a0a;
+    margin-top: 24px;
+}
+.f5 p{
+    font-size: 17px;
+    line-height: 22px;
+    color: #777;
+    margin-top: 12px;
 }
