@@ -102,3 +102,27 @@ header{
     object-fit: cover;
     display: block;
 }
+.se{
+    max-width: 1380px;
+    height: 315px;
+    margin: -50px auto 0;
+    padding: 0 95px;
+    background-color: #FEF9F2;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.se1 h2{
+    font-family: Roboto, Arial, sans-serif;
+    font-size: 65px;
+    font-weight: 700;
+    color: #0a0a0a;
+}
+.se1 h2 span{
+    color: #FF9C08;
+}
+.se1 p{
+    font-size: 20px;
+    color: #666;
+    margin-top: 10px;
+}
