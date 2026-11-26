@@ -303,7 +303,7 @@ header{
     border-radius: 10px;
 }
 .shash{
-    max-width: 1520px;
+    max-width: 1545px;
     margin: 0 auto;
     background-color: #ffffff;
 }
@@ -451,4 +451,110 @@ header{
     line-height: 22px;
     color: #777;
     margin-top: 12px;
+}
+
+.hasht{
+    max-width: 1260px;
+    margin: 0 auto;
+    padding: 130px 150px;
+    background-color: #FEF9F2;
+}
+.g{   
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.g1{
+    position: relative;
+    width: 540px;
+    height: 620px;
+}
+.rasm{
+    width: 540px;
+    height: 540px;
+    border-radius: 12px;
+    display: block;
+}
+.g2{
+    position: absolute;
+    bottom: 0;
+    top: 390px;
+    right: -30px;
+    width: 250px;
+    height: 150px;
+    padding: 25px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+}
+.g3{
+    font-size: 14px;
+    line-height: 22px;
+    color: #333;
+    padding-top: 20px;
+    padding-left: 10px;
+}
+.g2 h4{
+    font-family: Roboto, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    color: #0a0a0a;
+    margin-top: 14px;
+    padding-left: 10px;
+}
+.g2 span{
+    display: block;
+    font-size: 13px;
+    color: gray;
+    margin-top: 4px;
+    padding-left: 10px;
+}
+.gg{
+    width: 540px;
+}
+.gg1{
+    color: #FF9C08;
+    font-size: 14px;
+    font-weight: 700;
+}
+.gg h2{
+    font-family: Roboto, Arial, sans-serif;
+    font-size: 42px;
+    font-weight: 700;
+    line-height: 54px;
+    color: #0a0a0a;
+    margin-top: 10px;
+}
+.gg2{
+    font-size: 16px;
+    line-height: 28px;
+    color: #777;
+    margin-top: 16px;
+}
+.gg3{
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    margin-top: 16px;
+    font-size: 15px;
+    color: #0a0a0a;
+}
+.gg3 img{
+    width: 24px;
+    height: 24px;
+}
+.gg4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 165px;
+    height: 60px;
+    margin-top: 32px;
+    background-color: #FF9C08;
+    color: #0a0a0a;
+    font-weight: 700;
+    font-size: 16px;
+    border-radius: 10px;
 }
